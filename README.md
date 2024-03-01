@@ -3,3 +3,6 @@ I worked on a mechanical design course using Créo CAD software. The work consis
 
 * [CREO Files](https://github.com/Maxxyyme/Bride-Dimeco/tree/main/src)
 * [PDF Plans](https://github.com/Maxxyyme/Bride-Dimeco/tree/main/plans)
+
+* ![image](https://github.com/Maxxyyme/Bride-Dimeco/assets/63341738/b40ce99c-d5ad-46d0-a22d-937a92fabe85)
+
